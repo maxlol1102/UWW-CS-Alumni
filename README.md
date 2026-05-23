@@ -1,1 +1,1 @@
-# UWW-CS-Alumni-
+# UWW-CS-Alumni
