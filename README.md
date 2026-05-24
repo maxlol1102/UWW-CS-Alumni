@@ -1,8 +1,4 @@
-# UWW-CS-Alumni
-
-<p align="center">
-  <strong>University of Wisconsin–Whitewater Computer Science Alumni Network</strong>
-</p>
+# University of Wisconsin–Whitewater CS Alumni Network</strong>
 
 ---
 
