@@ -1,0 +1,15 @@
+{
+  "project": "UWW CS Alumni Network",
+  "mode": "claude-only",
+  "version": "0.1.0",
+  "agents": [
+    "product-strategist",
+    "product-designer",
+    "cto-architect",
+    "full-stack-engineer",
+    "qa-release-engineer"
+  ],
+  "primaryBrain": "CLAUDE.md",
+  "tracker": "TRACKER.md",
+  "retrospective": "RETROSPECTIVE.md"
+}
